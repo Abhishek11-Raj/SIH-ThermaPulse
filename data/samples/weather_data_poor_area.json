@@ -1,0 +1,1082 @@
+[
+  {
+    "observation_id": "wxn-1e73640b781749e1",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-26T03:00:00Z",
+    "source_timestamp": "2026-09-26T03:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974037",
+    "temperature": 38.8,
+    "temperature_unit": "C",
+    "relative_humidity": 38.0,
+    "wind_speed": 5.6,
+    "wind_direction": 90.5,
+    "pressure": 1006.0,
+    "rainfall": 0.0,
+    "cloud_cover": 25.5,
+    "solar_radiation": 0.0,
+    "visibility": 11.0,
+    "uv_index": 0.0,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.973919"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-26T03:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.973959",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-d31e566d6eed48e6",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-26T07:00:00Z",
+    "source_timestamp": "2026-09-26T07:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974115",
+    "temperature": 35.9,
+    "temperature_unit": "C",
+    "relative_humidity": 43.4,
+    "wind_speed": 5.8,
+    "wind_direction": 103.3,
+    "pressure": 1006.3,
+    "rainfall": 0.0,
+    "cloud_cover": 26.6,
+    "solar_radiation": 784.4,
+    "visibility": 11.3,
+    "uv_index": 0.0,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974065"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-26T07:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974086",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-38d5c104bc47438b",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-26T10:00:00Z",
+    "source_timestamp": "2026-09-26T10:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974168",
+    "temperature": 31.3,
+    "temperature_unit": "C",
+    "relative_humidity": 51.0,
+    "wind_speed": 5.8,
+    "wind_direction": 102.8,
+    "pressure": 1006.3,
+    "rainfall": 0.0,
+    "cloud_cover": 26.6,
+    "solar_radiation": 404.9,
+    "visibility": 11.3,
+    "uv_index": 6.6,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974130"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-26T10:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974147",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-29e8805bd4624a50",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-26T13:00:00Z",
+    "source_timestamp": "2026-09-26T13:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974211",
+    "temperature": 27.7,
+    "temperature_unit": "C",
+    "relative_humidity": 57.3,
+    "wind_speed": 5.9,
+    "wind_direction": 109.9,
+    "pressure": 1006.4,
+    "rainfall": 0.0,
+    "cloud_cover": 27.2,
+    "solar_radiation": 103.6,
+    "visibility": 11.4,
+    "uv_index": 11.6,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974180"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-26T13:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974194",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-5ea8888687794660",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-26T17:00:00Z",
+    "source_timestamp": "2026-09-26T17:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974251",
+    "temperature": 28.3,
+    "temperature_unit": "C",
+    "relative_humidity": 59.5,
+    "wind_speed": 6.9,
+    "wind_direction": 176.0,
+    "pressure": 1007.9,
+    "rainfall": 0.0,
+    "cloud_cover": 32.7,
+    "solar_radiation": 125.7,
+    "visibility": 12.9,
+    "uv_index": 0.0,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974222"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-26T17:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974234",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-e7dce1167ae8448b",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-26T19:00:00Z",
+    "source_timestamp": "2026-09-26T19:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974290",
+    "temperature": 29.6,
+    "temperature_unit": "C",
+    "relative_humidity": 52.4,
+    "wind_speed": 5.4,
+    "wind_direction": 73.2,
+    "pressure": 1005.6,
+    "rainfall": 0.0,
+    "cloud_cover": 24.1,
+    "solar_radiation": 0.0,
+    "visibility": 10.6,
+    "uv_index": 0.0,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974262"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-26T19:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974274",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-6baf86a8893a4bdf",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-26T20:00:00Z",
+    "source_timestamp": "2026-09-26T20:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974333",
+    "temperature": 30.8,
+    "temperature_unit": "C",
+    "relative_humidity": 49.0,
+    "wind_speed": 4.9,
+    "wind_direction": 42.4,
+    "pressure": 1004.9,
+    "rainfall": 0.0,
+    "cloud_cover": 21.5,
+    "solar_radiation": 0.0,
+    "visibility": 9.9,
+    "uv_index": 0.0,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974300"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-26T20:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974311",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-250f54ca6a4444bf",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-26T21:00:00Z",
+    "source_timestamp": "2026-09-26T21:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974426",
+    "temperature": 32.9,
+    "temperature_unit": "C",
+    "relative_humidity": 48.6,
+    "wind_speed": 5.9,
+    "wind_direction": 108.3,
+    "pressure": 1006.4,
+    "rainfall": 0.0,
+    "cloud_cover": 27.0,
+    "solar_radiation": 0.0,
+    "visibility": 11.4,
+    "uv_index": 0.0,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974363"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-26T21:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974388",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-41728974b330484c",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-27T00:00:00Z",
+    "source_timestamp": "2026-09-27T00:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974508",
+    "temperature": 37.0,
+    "temperature_unit": "C",
+    "relative_humidity": 41.1,
+    "wind_speed": 5.7,
+    "wind_direction": 93.6,
+    "pressure": 1006.1,
+    "rainfall": 0.0,
+    "cloud_cover": 25.8,
+    "solar_radiation": 0.0,
+    "visibility": 11.1,
+    "uv_index": 0.0,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974448"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-27T00:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974472",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-df5ce4c4671c49f0",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-27T04:00:00Z",
+    "source_timestamp": "2026-09-27T04:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974561",
+    "temperature": 38.5,
+    "temperature_unit": "C",
+    "relative_humidity": 38.3,
+    "wind_speed": 5.6,
+    "wind_direction": 89.8,
+    "pressure": 1006.0,
+    "rainfall": 0.0,
+    "cloud_cover": 25.5,
+    "solar_radiation": 0.0,
+    "visibility": 11.0,
+    "uv_index": 0.0,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974528"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-27T04:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974542",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-daa2928285d84eaa",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-27T06:00:00Z",
+    "source_timestamp": "2026-09-27T06:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974622",
+    "temperature": null,
+    "temperature_unit": "C",
+    "relative_humidity": 42.3,
+    "wind_speed": 6.2,
+    "wind_direction": 130.0,
+    "pressure": 1006.9,
+    "rainfall": 0.0,
+    "cloud_cover": 28.8,
+    "solar_radiation": 896.9,
+    "visibility": 11.9,
+    "uv_index": 0.0,
+    "quality_flag": "MISSING",
+    "quality_assessment": {
+      "flag": "MISSING",
+      "missing_variables": [
+        "temperature"
+      ],
+      "issues": [
+        {
+          "code": "missing_value",
+          "variable": "temperature",
+          "severity": "MISSING",
+          "message": "temperature missing (kept null, not zeroed)"
+        }
+      ],
+      "assessed_at": "2026-09-28T03:26:02.974573"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-27T06:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974603",
+      "version": null,
+      "quality_status": "MISSING",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-a9a4f1c23b434ee7",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-27T07:00:00Z",
+    "source_timestamp": "2026-09-27T07:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974663",
+    "temperature": 36.5,
+    "temperature_unit": "C",
+    "relative_humidity": 45.9,
+    "wind_speed": 7.0,
+    "wind_direction": 178.0,
+    "pressure": 1008.0,
+    "rainfall": 0.0,
+    "cloud_cover": 32.8,
+    "solar_radiation": 809.3,
+    "visibility": 13.0,
+    "uv_index": 0.0,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974633"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-27T07:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974646",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-f02c80e7af15497c",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-27T09:00:00Z",
+    "source_timestamp": "2026-09-27T09:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974700",
+    "temperature": 33.1,
+    "temperature_unit": "C",
+    "relative_humidity": 49.4,
+    "wind_speed": 6.3,
+    "wind_direction": 132.2,
+    "pressure": 1006.9,
+    "rainfall": 0.0,
+    "cloud_cover": 29.0,
+    "solar_radiation": 544.1,
+    "visibility": 11.9,
+    "uv_index": 6.7,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974673"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-27T09:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974684",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-a947c98861124c54",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-27T10:00:00Z",
+    "source_timestamp": "2026-09-27T10:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974736",
+    "temperature": 30.9,
+    "temperature_unit": "C",
+    "relative_humidity": 49.6,
+    "wind_speed": 5.2,
+    "wind_direction": 59.7,
+    "pressure": 1005.3,
+    "rainfall": 0.0,
+    "cloud_cover": 23.0,
+    "solar_radiation": 390.5,
+    "visibility": 10.3,
+    "uv_index": 6.3,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974710"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-27T10:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974721",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-4aa326e405e348dd",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-27T11:00:00Z",
+    "source_timestamp": "2026-09-27T11:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974772",
+    "temperature": 29.9,
+    "temperature_unit": "C",
+    "relative_humidity": 53.5,
+    "wind_speed": 5.9,
+    "wind_direction": 105.9,
+    "pressure": 1006.4,
+    "rainfall": 0.0,
+    "cloud_cover": 26.8,
+    "solar_radiation": 285.3,
+    "visibility": 11.4,
+    "uv_index": 11.6,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974746"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-27T11:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974757",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-f4efa0f6afbf47d7",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-27T12:00:00Z",
+    "source_timestamp": "2026-09-27T12:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974808",
+    "temperature": 28.1,
+    "temperature_unit": "C",
+    "relative_humidity": 53.5,
+    "wind_speed": 4.9,
+    "wind_direction": 43.8,
+    "pressure": 1005.0,
+    "rainfall": 0.0,
+    "cloud_cover": 21.7,
+    "solar_radiation": 161.0,
+    "visibility": 10.0,
+    "uv_index": 11.2,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974781"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-27T12:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974792",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-fb79e6d025bb4770",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-27T13:00:00Z",
+    "source_timestamp": "2026-09-27T13:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974843",
+    "temperature": 27.8,
+    "temperature_unit": "C",
+    "relative_humidity": 57.5,
+    "wind_speed": 6.0,
+    "wind_direction": 115.7,
+    "pressure": 1006.6,
+    "rainfall": 0.0,
+    "cloud_cover": 27.6,
+    "solar_radiation": 105.5,
+    "visibility": 11.6,
+    "uv_index": 11.6,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974818"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-27T13:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974828",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-c4be7f14db394493",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-27T19:00:00Z",
+    "source_timestamp": "2026-09-27T19:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974880",
+    "temperature": 30.4,
+    "temperature_unit": "C",
+    "relative_humidity": 55.6,
+    "wind_speed": 6.8,
+    "wind_direction": 167.5,
+    "pressure": 1007.7,
+    "rainfall": 0.0,
+    "cloud_cover": 32.0,
+    "solar_radiation": 0.0,
+    "visibility": 12.7,
+    "uv_index": 0.0,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974854"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-27T19:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974864",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-40d11336f0b240d9",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-27T21:00:00Z",
+    "source_timestamp": "2026-09-27T21:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974916",
+    "temperature": 33.4,
+    "temperature_unit": "C",
+    "relative_humidity": 50.4,
+    "wind_speed": 6.7,
+    "wind_direction": 162.5,
+    "pressure": 1007.6,
+    "rainfall": 0.0,
+    "cloud_cover": 31.5,
+    "solar_radiation": 0.0,
+    "visibility": 12.6,
+    "uv_index": 0.0,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974890"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-27T21:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974901",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-890ac4c63d214559",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-27T23:00:00Z",
+    "source_timestamp": "2026-09-27T23:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974950",
+    "temperature": 35.8,
+    "temperature_unit": "C",
+    "relative_humidity": 43.3,
+    "wind_speed": 5.8,
+    "wind_direction": 98.4,
+    "pressure": 1006.2,
+    "rainfall": 0.0,
+    "cloud_cover": 26.2,
+    "solar_radiation": 0.0,
+    "visibility": 11.2,
+    "uv_index": 0.0,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974925"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-27T23:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974935",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  },
+  {
+    "observation_id": "wxn-e4506c52ffb244c8",
+    "source": "mock",
+    "provider": "mock_weather",
+    "location_id": "DEMO-WARD-03",
+    "latitude": null,
+    "longitude": null,
+    "observed_at": "2026-09-28T03:00:00Z",
+    "source_timestamp": "2026-09-28T03:00:00Z",
+    "ingestion_timestamp": "2026-09-28T03:26:02.974985",
+    "temperature": 38.7,
+    "temperature_unit": "C",
+    "relative_humidity": 38.0,
+    "wind_speed": 5.6,
+    "wind_direction": 89.5,
+    "pressure": 1006.0,
+    "rainfall": 0.0,
+    "cloud_cover": 25.5,
+    "solar_radiation": 0.0,
+    "visibility": 11.0,
+    "uv_index": 0.0,
+    "quality_flag": "VALID",
+    "quality_assessment": {
+      "flag": "VALID",
+      "missing_variables": [],
+      "issues": [],
+      "assessed_at": "2026-09-28T03:26:02.974959"
+    },
+    "spatial_resolution": {
+      "ref_type": "point",
+      "resolution_value": null,
+      "resolution_unit": "degrees",
+      "geometry_reference": null,
+      "crs": null
+    },
+    "temporal_resolution": {
+      "ref_type": "point",
+      "resolution_value": 1.0,
+      "resolution_unit": "hour"
+    },
+    "provenance": {
+      "source": "mock",
+      "provider": "mock_weather",
+      "adapter": "weather.mock.v1",
+      "source_timestamp": "2026-09-28T03:00:00Z",
+      "ingestion_timestamp": "2026-09-28T03:26:02.974970",
+      "version": null,
+      "quality_status": "VALID",
+      "notes": []
+    }
+  }
+]
